@@ -29,12 +29,9 @@ Scanner userInput = Scanner(System.in);
 System.out.println('Been here before?')
 if(userInput.hasNext()){
 String answer = userInput.nextLine():
-}
 if(answer.equalsIgnoreCase('no')){
-isNewVisitor = !isNewVisitor;
-}
-isNewVisitor == true? System.out.println(greeting) : System.out.println('Welcome back');
-}
+isNewVisitor = !isNewVisitor; }}
+isNewVisitor == true? System.out.println(greeting) : System.out.println('Welcome back');}
 ```
  
 
