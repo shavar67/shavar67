@@ -74,6 +74,16 @@ isNewVisitor == true? System.out.println(greeting) : System.out.println('Welcome
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 
+<br/>
+
+<a href="https://github.com/shavar67">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shavar67&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shavar67&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+
 ```java
   platform.exit(0)
   ```
