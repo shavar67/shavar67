@@ -27,8 +27,9 @@ boolean isNewVisitor = false;
 String greeting = "Hello World, Welcome to my github profile.";
 Scanner userInput = Scanner(System.in);
 System.out.println('Been here before?')
-while(userInput.hasNext()){
+if(userInput.hasNext()){
 String answer = userInput.nextLine():
+}
 if(answer.equalsIgnoreCase('no')){
 isNewVisitor = !isNewVisitor;
 }
