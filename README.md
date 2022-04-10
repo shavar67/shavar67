@@ -12,7 +12,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/__shavar?color=blue&style=for-the-badge)
 ![](https://img.shields.io/badge/shavar67-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white)
- [![Linkedin Badge](https://img.shields.io/badge/-shavar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shavar/)](https://www.linkedin.com/in/shavar/)
+ [![Linkedin Badge](https://img.shields.io/badge/-shavar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shavar)](https://www.linkedin.com/in/shavar)
 [![Gmail Badge](https://img.shields.io/badge/-theofficialshavar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:theofficialshavar@gmail.com)](mailto:theofficialshavar@gmail.com)
 
 ![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)
