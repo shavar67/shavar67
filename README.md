@@ -1,5 +1,5 @@
 
-    👋🏾  I'm Shavar, a tech enthusiast & an open-source advocate.
+    👋🏾  Hello fellow developers
       
   
    ``` javascript
