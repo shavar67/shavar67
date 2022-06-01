@@ -5,9 +5,6 @@
    ``` javascript
   const bio =  'Software Engineer @ Ecsazza • Mobile app dev | Flutter  •  Java • tech enthusiast'
  ```
-``` css
-.fear { display: none; }
-```
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/__shavar?color=blue&style=for-the-badge)
 ![](https://img.shields.io/badge/shavar67-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white)
