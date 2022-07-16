@@ -3,7 +3,7 @@
       
   
    ``` javascript
-  const bio =  'Software Engineer @ Ecsazza • Mobile app dev | Flutter  •  Java • tech enthusiast'
+  const bio =  ' Ex software engineer @ Ecsazza • Mobile app dev | Flutter  •  Java • tech enthusiast'
  ```
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/__shavar?color=blue&style=for-the-badge)
