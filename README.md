@@ -73,11 +73,3 @@ namespace GithubProfile{
     Interest: Augmented reality | Artificial Intelligence.
     currently learning: C# | Ruby | Ruby | Go.
  ```
-
-<br/>
-<a href="https://github.com/shavar67">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shavar67&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shavar67&theme=buefy&layout=compact" />
-</a>
-<br/>
-
