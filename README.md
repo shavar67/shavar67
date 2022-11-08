@@ -1,4 +1,13 @@
-     👋🏾 Construction zone 🚧 | generating new profile.....
+
+     </> Program execution
+  ```C# 
+    Please wait...generating profile bio.
+   
+    Name: Shavar.
+    Title: Software Engineer.
+    Interest: Augmented reality | Artificial Intelligence.
+    Currently learning: C# | Ruby | Ruby | Go.
+ ```
 
 ```C#
 using System;
@@ -27,7 +36,7 @@ namespace GitProfileBio {
         + Name + "\nTitle: " 
         + Title + "\nInterest: " 
         + Interest 
-        + "\ncurrently learning: " 
+        + "\nCurrently learning: " 
         + Courses; } }
 ```
        ⚡️ Generating new profile bio.
@@ -61,15 +70,4 @@ namespace GithubProfile{
             else msg = "Hello!, take a look around!\n";
             Console.WriteLine(msg);}}}
 ```
-     </> Program execution
-     Welcome to my github profile! have you been here before?
-     no
-     Hello!, take a look around!
-     Please wait...generating profile bio.
-  
-  ```C#             
-    Name: Shavar.
-    Title: Software Engineer.
-    Interest: Augmented reality | Artificial Intelligence.
-    currently learning: C# | Ruby | Ruby | Go.
- ```
+    
