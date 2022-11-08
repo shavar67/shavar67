@@ -1,10 +1,4 @@
 
-    👋🏾  Hello fellow developers
-      
-  
-   ``` javascript
-  const bio =  ' Ex software engineer @ Ecsazza • Mobile app dev | Flutter  •  Java '
- ```
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/__shavar?color=blue&style=for-the-badge)
 ![](https://img.shields.io/badge/shavar67-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white)
