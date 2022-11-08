@@ -12,8 +12,7 @@
 ```C#
 using System;
 namespace GithubProfile {
-   class Profile {
-   class Hello {         
+   class Profile {      
    static void Main(string[] args) {
    Console.WriteLine("New profile coming soon!");}}}
 ```
