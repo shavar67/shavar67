@@ -5,8 +5,8 @@
    
     Name: Shavar.
     Title: Software Engineer.
-    Interest: Augmented reality | Artificial Intelligence.
-    Currently learning: C# | Ruby | Ruby | Go.
+    Interest: Augmented reality | Artificial Intelligence | Flutter/Mobile Development.
+    Currently learning: C# | Ruby | Ruby on Rails | Go.
  ```
 
 ```C#
@@ -45,7 +45,7 @@ namespace GithubProfile{
       class Profile  {
         public static void Main(string[] args) {
             var _description = "Shavar.,Software Engineer.,Augmented reality | Artificial Intelligence." +
-            ",C# | Ruby | Ruby | Go.";
+            ",C# | Ruby | Ruby on Rails | Go.";
             var _profile = new Profile();
             _profile.GreetNewVisitors();
             Console.WriteLine(_profile.CreateBio(_description));
