@@ -1,5 +1,3 @@
-
-
 👨🏾‍💻 Shavar Litchmore | Software Engineer
 
 🎨 Frontend | Dabbling in backend with Ruby 
